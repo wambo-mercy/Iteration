@@ -1,18 +1,12 @@
-Scenario: Preparing for Work (Morning Routine)
-Imagine you have a morning routine where you do the following steps before heading out to work:
+Making a Cup of Coffee
+The process of making coffee involves a series of steps that are repeated each time you make coffee.
 
-Wake up
-Brush teeth
-Take a shower
-Get dressed
-Have breakfast
-Check your bag for essentials (wallet, keys, phone)
-Leave for work
-If we were to represent this as an algorithm, we could iterate over each task in your routine, performing each one step by step. This is a good example of sequential iteration.
+Steps:
+Boil water.
+Add coffee grounds to a filter or French press.
+Pour hot water over the grounds.
+Wait for the coffee to brew.
+Pour the coffee into a cup.
+Add milk, sugar, or any other desired additions.
+In this process, the act of boiling water and brewing coffee can be repeated multiple times, depending on how much coffee you want to make. The iterative nature is especially clear when you're preparing multiple cups of coffee in sequence.
 
-Steps to illustrate iteration:
-Initialization: Start with the first task of the routine, "Wake up."
-Condition check: Once you've completed a task (like "Wake up"), move on to the next task ("Brush teeth"). The iteration continues as long as there are tasks left in your routine.
-Repeat the steps: This process repeats each morning. After all tasks are done, the routine is complete, and you are ready to leave for work.
-
-https://chatgpt.com/
